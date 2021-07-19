@@ -1,13 +1,13 @@
 ### Hi ! 👋
-<br>
 
-<a href="https://github.com/Louis-Devlin">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Devlin&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+I'm Louis, a second year Computer Science Student at the University of Plymotuh!
 
-<a href="https://github.com/Louis-Devlin">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Louis-Devlin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+Programming has always been a strong interest of mine and I am always interested to learn new technologies
+<br/>
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Louis-Devlin&count_private=true&show_icons=true&theme=react" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Devlin&langs_count=5&theme=react" />
+
 <!--
 **Louis-Devlin/Louis-Devlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
