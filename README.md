@@ -1,6 +1,6 @@
 ### Hi ! 👋
 
-I'm Louis, a second year Computer Science Student at the University of Plymotuh!
+I'm Louis, a second year Computing and Software Development Student at the University of Plymotuh!
 
 Programming has always been a strong interest of mine and I am always interested to learn new technologies
 <br/>
