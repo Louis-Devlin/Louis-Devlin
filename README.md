@@ -1,6 +1,10 @@
-### Hi ! 👋
+## Hi ! 👋
 
-I'm Louis, a second year Computing and Software Development Student at the University of Plymotuh!
+I'm Louis, a final year Computer Science student at the University of Plymotuh!
+
+### 🔭 I’m currently working on ...
+- Well Up - A mood and habit tracking app, written in .Net, TypeScript and Python for my Final Year Project
+  
 
 Programming has always been a strong interest of mine and I am always interested to learn new technologies
 <br/>
